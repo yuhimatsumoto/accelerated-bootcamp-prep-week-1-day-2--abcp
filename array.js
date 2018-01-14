@@ -40,3 +40,11 @@ function removeElementFromEndOfArray(array) {
 return array.slice(0, array.length - 1)
 }
 
+
+
+// CHALLENGE: remove an element from the middle of the array/at a given index
+// and return 
+
+
+
+
