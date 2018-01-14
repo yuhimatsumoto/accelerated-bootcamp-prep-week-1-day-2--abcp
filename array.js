@@ -48,8 +48,3 @@ return array.slice(0, array.length - 1)
 function nonDestructivelyRemoveAtIndex(array, index) {
 // using slice _and_ spread??
 }
-
-
-
-
-
