@@ -15,7 +15,7 @@ function greaterThanTen (num) {
 
 
 
-var  = ""
+var = ""
 
 if (< ) {
 
