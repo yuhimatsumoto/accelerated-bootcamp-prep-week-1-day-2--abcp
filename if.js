@@ -9,10 +9,10 @@ function greaterThanTen (num) {
   var num = 5
   if (num > 10) {
     retun num
-  } else 
+  } else {
   return ("Sorry your number is not GREATER THAN 10"
   }
-}
+
 
 
 
